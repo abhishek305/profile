@@ -1,6 +1,6 @@
 # profile
 
-Select the branch to gh-pages and you'll see the files.
+Select the Branch to gh-pages and you'll see the files.
 
 It is basically a portfolio app created using react.js 
 
